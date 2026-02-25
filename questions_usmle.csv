@@ -1,0 +1,81 @@
+exam,subject,topic,question,option_a,option_b,option_c,option_d,answer,explanation
+USMLE,Pathology,Nephrology,Most common cause of nephrotic syndrome in children?,FSGS,Minimal change disease,Membranous nephropathy,IgA nephropathy,B,Minimal change disease is most common in children.
+USMLE,Pathology,Inflammation,Primary cell in acute inflammation?,Macrophage,Lymphocyte,Neutrophil,Eosinophil,C,Neutrophils dominate acute inflammation.
+USMLE,Pathology,Cardiology,Most common cause of myocardial infarction?,Vasculitis,Thrombosis on plaque,Embolism,Aneurysm,B,Plaque rupture causes thrombosis.
+USMLE,Pathology,Oncology,Tumor suppressor gene example?,RAS,p53,MYC,HER2,B,p53 regulates cell cycle arrest.
+USMLE,Pathology,Hematology,Reed-Sternberg cells seen in?,NHL,Hodgkin lymphoma,CLL,Multiple myeloma,B,RS cells are hallmark of Hodgkin lymphoma.
+USMLE,Pathology,Liver,Most common cause of cirrhosis worldwide?,Alcohol,Hepatitis B,Hepatitis C,NAFLD,B,Hepatitis B common worldwide.
+USMLE,Pathology,Lung,Smoking strongly associated with?,Adenocarcinoma,Small cell carcinoma,Carcinoid,Hamartoma,B,Small cell strongly linked to smoking.
+USMLE,Pathology,Autoimmune,Antibody in SLE?,Anti-CCP,Anti-dsDNA,Anti-Jo1,Anti-GBM,B,Anti-dsDNA specific for SLE.
+USMLE,Pathology,Endocrine,Most common cause of hyperthyroidism?,Graves disease,Thyroiditis,Adenoma,Cancer,A,Graves most common.
+USMLE,Pathology,GIT,Cancer associated with H pylori?,Colon,Pancreas,Gastric,Esophageal,C,H pylori linked to gastric cancer.
+USMLE,Physiology,Renal,GFR depends on?,Net filtration pressure,ADH,Renin,Urine pH,A,GFR determined by net pressure.
+USMLE,Physiology,Cardiac,Preload related to?,Afterload,End diastolic volume,Heart rate,Contractility,B,Preload equals EDV.
+USMLE,Physiology,Respiratory,Right shift of O2 curve occurs in?,Alkalosis,Hypothermia,Acidosis,Fetal Hb,C,Acidosis shifts right.
+USMLE,Physiology,Endocrine,Insulin secreted from?,Alpha cells,Beta cells,Delta cells,F cells,B,Beta cells secrete insulin.
+USMLE,Physiology,Neuro,Primary excitatory neurotransmitter?,GABA,Dopamine,Glutamate,Glycine,C,Glutamate is major excitatory NT.
+USMLE,Physiology,GIT,B12 absorbed in?,Jejunum,Duodenum,Ileum,Colon,C,B12 absorbed in ileum.
+USMLE,Physiology,Hematology,Erythropoietin produced in?,Liver,Heart,Kidney,Spleen,C,Kidney produces EPO.
+USMLE,Physiology,Reproductive,LH surge triggers?,Menses,Follicle growth,Ovulation,Implantation,C,LH surge causes ovulation.
+USMLE,Physiology,Acid Base,Metabolic acidosis shows?,High pH,Low HCO3,High CO2,Low Na,B,Metabolic acidosis has low bicarbonate.
+USMLE,Physiology,Muscle,Troponin binds?,Calcium,Sodium,Potassium,ATP,A,Troponin binds calcium.
+USMLE,Biochemistry,Metabolism,Rate limiting enzyme glycolysis?,Hexokinase,PFK-1,LDH,Pyruvate kinase,B,PFK-1 is rate limiting.
+USMLE,Biochemistry,Genetics,Trisomy 21 due to?,Deletion,Mutation,Nondisjunction,Insertion,C,Down syndrome due to nondisjunction.
+USMLE,Biochemistry,Urea Cycle,OTC deficiency leads to?,Hyperammonemia,Hypoglycemia,Ketonuria,Anemia,A,OTC deficiency causes ammonia buildup.
+USMLE,Biochemistry,Carbohydrate,Enzyme deficient in PKU?,Tyrosinase,PAH,Homogentisate oxidase,G6PD,B,PKU caused by PAH deficiency.
+USMLE,Biochemistry,Lipid,Cholesterol precursor?,Acetyl CoA,Pyruvate,Lactate,Alanine,A,Cholesterol derived from acetyl CoA.
+USMLE,Biochemistry,Vitamin,B1 deficiency causes?,Scurvy,Rickets,Beriberi,Pellagra,C,B1 deficiency causes beriberi.
+USMLE,Biochemistry,Enzyme,Competitive inhibition increases?,Vmax,Km,ATP,NADH,B,Km increases in competitive inhibition.
+USMLE,Biochemistry,DNA,RNA polymerase function?,Replication,Translation,Transcription,Repair,C,RNA polymerase transcribes DNA.
+USMLE,Biochemistry,Glycogen,Glycogen stored in?,Brain,Liver,Pancreas,Thyroid,B,Liver stores glycogen.
+USMLE,Biochemistry,Energy,Krebs cycle occurs in?,Cytoplasm,Nucleus,Mitochondria,Ribosome,C,Krebs in mitochondria.
+USMLE,Pharmacology,Anticoagulant,Heparin activates?,Protein C,AT III,Factor V,VKOR,B,Heparin activates AT III.
+USMLE,Pharmacology,Antibiotic,Penicillin targets?,Ribosome,DNA gyrase,Cell wall,Membrane,C,Penicillin inhibits cell wall synthesis.
+USMLE,Pharmacology,Autonomic,Atropine blocks?,Alpha,Beta,Muscarinic,Nicotinic,C,Atropine blocks muscarinic receptors.
+USMLE,Pharmacology,Cardiac,Beta blockers reduce?,HR,Glucose,Calcium,Platelets,A,Beta blockers reduce heart rate.
+USMLE,Pharmacology,CNS,Benzodiazepines act on?,Dopamine,GABA-A,Serotonin,Glutamate,B,BZDs enhance GABA-A.
+USMLE,Pharmacology,Endocrine,Metformin decreases?,Insulin resistance,Glucagon,GH,Cortisol,A,Metformin reduces insulin resistance.
+USMLE,Pharmacology,Chemo,Methotrexate inhibits?,DHFR,Topoisomerase,Kinase,Polymerase,A,Methotrexate inhibits DHFR.
+USMLE,Pharmacology,Analgesic,Morphine acts on?,Mu receptors,Alpha receptors,Beta receptors,Histamine,A,Morphine binds mu receptors.
+USMLE,Pharmacology,Diuretic,Furosemide acts on?,DCT,PCT,Loop of Henle,Collecting duct,C,Furosemide blocks NKCC in loop.
+USMLE,Pharmacology,Antipsychotic,Haloperidol blocks?,D1,D2,5HT2,Alpha,B,Haloperidol blocks D2.
+USMLE,Microbiology,Bacteria,Gram positive cocci clusters?,Strep,Staph,Neisseria,Bacillus,B,Staph forms clusters.
+USMLE,Microbiology,Bacteria,Catalase positive organism?,Strep,Staph,Enterococcus,Listeria,B,Staph is catalase positive.
+USMLE,Microbiology,Virology,Segmented RNA virus?,HIV,Influenza,Polio,Herpes,B,Influenza segmented.
+USMLE,Microbiology,Virology,DNA virus example?,Influenza,HIV,Herpes,Measles,C,Herpes is DNA virus.
+USMLE,Microbiology,Fungi,Budding yeast?,Aspergillus,Candida,Cryptococcus,Mucor,B,Candida buds.
+USMLE,Microbiology,Parasite,Malaria caused by?,Leishmania,Plasmodium,Giardia,Toxoplasma,B,Malaria due to Plasmodium.
+USMLE,Microbiology,Bacteria,TB diagnosed by?,Gram stain,AFB stain,India ink,KOH,B,TB is acid fast.
+USMLE,Microbiology,Bacteria,Toxin causes pseudomembrane?,E coli,C diff,Salmonella,Vibrio,B,C diff causes pseudomembranous colitis.
+USMLE,Microbiology,Bacteria,Rusty sputum pneumonia?,Mycoplasma,Strep pneumo,Klebsiella,TB,B,Strep pneumo classic.
+USMLE,Microbiology,Virology,HIV infects?,CD4,CD8,B cells,Macrophages,A,HIV targets CD4 cells.
+USMLE,Immunology,Hypersensitivity,Type I mediated by?,IgG,IgM,IgE,T cells,C,Type I IgE mediated.
+USMLE,Immunology,Cells,CD8 function?,Helper,Cytotoxic,Memory,Regulatory,B,CD8 cytotoxic.
+USMLE,Immunology,Cells,B cells produce?,Cytokines,Antibodies,Complement,Interferon,B,B cells make antibodies.
+USMLE,Immunology,Complement,Classical pathway triggered by?,IgA,IgE,IgG,IgD,C,IgG activates classical pathway.
+USMLE,Immunology,Autoimmune,RA antibody?,ANA,Anti-CCP,Anti-dsDNA,Anti-GBM,B,Anti-CCP in RA.
+USMLE,Immunology,Transplant,Hyperacute rejection due to?,T cells,Preformed antibodies,Infection,Drugs,B,Preformed antibodies cause hyperacute.
+USMLE,Immunology,Vaccine,Live attenuated example?,Polio Salk,MMR,Hep B,Flu shot,B,MMR is live.
+USMLE,Immunology,Cells,Plasma cells derived from?,T cells,B cells,Macrophages,Neutrophils,B,Plasma cells from B cells.
+USMLE,Immunology,Cytokine,IL-2 stimulates?,B cells,T cells,RBC,Platelets,B,IL2 stimulates T cells.
+USMLE,Immunology,MHC,MHC I presents to?,CD4,CD8,B cells,NK cells,B,MHC I to CD8.
+USMLE,Anatomy,Brachial Plexus,Erb palsy roots?,C5-C6,C8-T1,T2-T3,C3-C4,A,Erb palsy C5-C6.
+USMLE,Anatomy,Upper Limb,Radial nerve injury causes?,Claw hand,Wrist drop,Ape hand,Frozen shoulder,B,Radial injury wrist drop.
+USMLE,Anatomy,Lower Limb,Common fibular injury causes?,Foot drop,Plantar flexion,Hip flexion,Knee extension,A,Common fibular causes foot drop.
+USMLE,Anatomy,Thorax,Nerve in surgical neck fracture?,Radial,Axillary,Ulnar,Median,B,Axillary nerve.
+USMLE,Anatomy,Abdomen,Portal vein formed by?,SMV and IVC,SMV and splenic,IVC and splenic,Renal and splenic,B,SMV + splenic form portal vein.
+USMLE,Anatomy,Cranial Nerve,Facial nerve palsy?,CN V,CN VII,CN IX,CN X,B,Facial nerve is CN VII.
+USMLE,Anatomy,Brain,Language area?,Occipital,Broca,Parietal,Cerebellum,B,Broca controls speech.
+USMLE,Anatomy,Spine,Herniated disc compresses?,Anterior root,Posterior root,Dorsal root ganglion,Spinal artery,C,Dorsal root ganglion compressed.
+USMLE,Anatomy,Pelvis,Most common ectopic site?,Ovary,Cervix,Tube,Abdomen,C,Most ectopic in tube.
+USMLE,Anatomy,Eye,Optic chiasm lesion causes?,Monocular blindness,Bitemporal hemianopia,Homonymous hemianopia,Scotoma,B,Chiasm lesion causes bitemporal loss.
+USMLE,Behavioral Science,Study,Recall bias common in?,Cohort,Case control,RCT,Cross sectional,B,Recall bias in case control.
+USMLE,Behavioral Science,Stats,Sensitivity measures?,TN,TP,FP,FN,B,Sensitivity measures true positives.
+USMLE,Behavioral Science,Stats,Specificity measures?,TP,TN,FP,FN,B,Specificity measures true negatives.
+USMLE,Behavioral Science,Ethics,Autonomy means?,Do no harm,Patient choice,Justice,Truth,B,Autonomy respects patient choice.
+USMLE,Behavioral Science,Stats,P value less than?,0.5,0.05,0.5%,5,B,P < 0.05 significant.
+USMLE,Behavioral Science,Stats,Incidence measures?,Prevalence,New cases,Deaths,Cure rate,B,Incidence = new cases.
+USMLE,Behavioral Science,Stats,Relative risk used in?,Case control,Cohort,RCT,Cross sectional,B,RR used in cohort.
+USMLE,Behavioral Science,Stats,Odds ratio used in?,Cohort,Case control,RCT,Trial,B,OR used in case control.
+USMLE,Behavioral Science,Ethics,Beneficence means?,Justice,Do good,Truth,Privacy,B,Beneficence means do good.
+USMLE,Behavioral Science,Communication,Best response to crying patient?,Ignore,Change topic,Empathize,Leave,C,Empathy first.
