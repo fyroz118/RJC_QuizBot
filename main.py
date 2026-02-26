@@ -1,6 +1,4 @@
 import os
-print("TOKEN DEBUG:", os.getenv("TOKEN"))
-
 import csv
 import random
 
