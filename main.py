@@ -137,6 +137,11 @@ async def answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # -----------------------------
 # Bot Setup
 # -----------------------------
+TOKEN = os.getenv("TOKEN")
+
+if not TOKEN:
+    raise Exception("TOKEN not found in environment variables")
+
 app = ApplicationBuilder().token(TOKEN).build()
 
 app.add_handler(CommandHandler("start", start))
