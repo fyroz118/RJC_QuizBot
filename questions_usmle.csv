@@ -79,3 +79,86 @@ USMLE,Behavioral Science,Stats,Relative risk used in?,Case control,Cohort,RCT,Cr
 USMLE,Behavioral Science,Stats,Odds ratio used in?,Cohort,Case control,RCT,Trial,B,OR used in case control.
 USMLE,Behavioral Science,Ethics,Beneficence means?,Justice,Do good,Truth,Privacy,B,Beneficence means do good.
 USMLE,Behavioral Science,Communication,Best response to crying patient?,Ignore,Change topic,Empathize,Leave,C,Empathy first.
+exam,subject,topic,question,option_a,option_b,option_c,option_d,answer,explanation
+USMLE,Medicine,Cardiology,Most common cause of heart failure in adults?,Hypertension,MI,Valvular disease,Cardiomyopathy,A,Hypertension is most common cause.
+USMLE,Medicine,Cardiology,ST elevation in leads II III aVF indicates?,Anterior MI,Inferior MI,Lateral MI,Posterior MI,B,II III aVF represent inferior wall.
+USMLE,Medicine,Cardiology,First line drug in acute MI?,Aspirin,Warfarin,Digoxin,Amlodipine,A,Aspirin reduces mortality early.
+USMLE,Medicine,Cardiology,Beta blockers contraindicated in?,Stable angina,MI,Severe asthma,Hypertension,C,Beta blockers worsen bronchospasm.
+USMLE,Medicine,Cardiology,Murmur of aortic stenosis radiates to?,Axilla,Carotids,Back,Epigastrium,B,Aortic stenosis radiates to carotids.
+USMLE,Medicine,Respiratory,Most common cause of COPD?,Alpha 1 deficiency,Smoking,Asthma,TB,B,Smoking is primary cause.
+USMLE,Medicine,Respiratory,Hypercapnia occurs in?,PE,Asthma,COPD exacerbation,Pneumothorax,C,COPD causes CO2 retention.
+USMLE,Medicine,Respiratory,Gold standard for TB diagnosis?,X ray,Sputum AFB,CT scan,Mantoux,B,Sputum AFB confirms TB.
+USMLE,Medicine,Respiratory,Pleural effusion transudate due to?,Cancer,TB,CHF,Pneumonia,C,CHF causes transudate.
+USMLE,Medicine,Respiratory,Most common lung cancer?,Small cell,Adenocarcinoma,Squamous,Large cell,B,Adenocarcinoma most common.
+USMLE,Medicine,Gastroenterology,Most common cause of upper GI bleed?,Varices,Peptic ulcer,Malignancy,Diverticula,B,Peptic ulcer common cause.
+USMLE,Medicine,Gastroenterology,Pain relieved by eating?,Gastric ulcer,Duodenal ulcer,Pancreatitis,Cholecystitis,B,Duodenal ulcer pain improves.
+USMLE,Medicine,Gastroenterology,Most common cause pancreatitis?,Alcohol,Gallstones,Drugs,Trauma,B,Gallstones most common overall.
+USMLE,Medicine,Gastroenterology,AST greater than ALT suggests?,Viral hepatitis,Alcoholic liver disease,NAFLD,Hemochromatosis,B,AST>ALT in alcohol.
+USMLE,Medicine,Gastroenterology,Complication of cirrhosis?,Portal hypertension,Hypertension,Stroke,MI,A,Cirrhosis leads to portal HTN.
+USMLE,Medicine,Nephrology,Most common cause CKD?,Diabetes,Hypertension,Glomerulonephritis,Drugs,A,Diabetes leading cause.
+USMLE,Medicine,Nephrology,Hyperkalemia ECG finding?,U waves,Peaked T waves,QT prolongation,ST elevation,B,Peaked T waves classic.
+USMLE,Medicine,Nephrology,First line in hyperkalemia emergency?,Calcium gluconate,Insulin alone,Furosemide,Dialysis,A,Calcium stabilizes myocardium.
+USMLE,Medicine,Nephrology,Most common kidney stone?,Calcium oxalate,Uric acid,Cystine,Struvite,A,Calcium oxalate most common.
+USMLE,Medicine,Nephrology,Nephrotic syndrome proteinuria level?,Less than 1g,More than 3.5g,2g,Trace,B,Nephrotic >3.5g/day.
+USMLE,Surgery,General,Most common cause acute abdomen?,Appendicitis,Pancreatitis,Ulcer,Obstruction,A,Appendicitis common acute abdomen.
+USMLE,Surgery,General,Classic sign appendicitis?,Murphy sign,McBurney tenderness,Cullen sign,Turner sign,B,McBurney point tenderness.
+USMLE,Surgery,General,Most common hernia?,Femoral,Direct inguinal,Indirect inguinal,Incisional,C,Indirect inguinal most common.
+USMLE,Surgery,General,First step in trauma management?,IV fluids,Airway,CXR,CT,B,Airway first in ABC.
+USMLE,Surgery,General,Peritonitis sign?,Rebound tenderness,Edema,Clubbing,Rash,A,Rebound indicates peritonitis.
+USMLE,Surgery,Trauma,Best initial imaging blunt trauma?,MRI,X ray,FAST,CT,C,FAST used in trauma.
+USMLE,Surgery,Trauma,Most common splenic injury cause?,Stab,Fall,RTA,Sports,C,RTA common cause.
+USMLE,Surgery,Orthopedics,Most common fracture elderly?,Femoral neck,Radius,Humerus,Tibia,A,Hip fracture common elderly.
+USMLE,Surgery,Orthopedics,Compartment syndrome sign?,Warm limb,Severe pain,Painless swelling,Bradycardia,B,Pain out of proportion.
+USMLE,Surgery,Urology,Most common testicular cancer?,Seminoma,Teratoma,Yolk sac,Choriocarcinoma,A,Seminoma most common.
+USMLE,Surgery,Urology,PSA elevated in?,Prostate cancer,BPH,Both,None,C,PSA elevated in both.
+USMLE,Surgery,Vascular,Classic DVT sign?,Homan sign,Clubbing,Rash,Bradycardia,A,Homan sign associated.
+USMLE,Surgery,Vascular,Most common site AAA rupture?,Thoracic,Abdominal,Carotid,Renal,B,AAA in abdominal aorta.
+USMLE,Surgery,Neurosurgery,Most common brain tumor adults?,Astrocytoma,Meningioma,Glioblastoma,Medulloblastoma,C,Glioblastoma most common malignant.
+USMLE,Surgery,Breast,Most common breast cancer?,Ductal,Lobular,Paget,Phyllodes,A,Invasive ductal most common.
+USMLE,Surgery,Thyroid,Most common thyroid cancer?,Papillary,Follicular,Medullary,Anaplastic,A,Papillary most common.
+USMLE,Medicine,Endocrinology,Most common cause of hyperthyroidism?,Graves disease,Thyroiditis,Adenoma,Cancer,A,Graves disease is most common.
+USMLE,Medicine,Endocrinology,Diabetic ketoacidosis lab finding?,High pH,High bicarbonate,High ketones,Low glucose,C,DKA shows ketonemia.
+USMLE,Medicine,Endocrinology,Most common complication of diabetes?,Neuropathy,Retinopathy,Nephropathy,CAD,B,Retinopathy common microvascular complication.
+USMLE,Medicine,Endocrinology,Primary hyperparathyroidism causes?,Low calcium,High calcium,Low PTH,High phosphate,B,Primary HPT increases calcium.
+USMLE,Medicine,Endocrinology,Drug of choice hypothyroidism?,Methimazole,Propylthiouracil,Levothyroxine,Radioiodine,C,Levothyroxine replaces T4.
+USMLE,Medicine,Neurology,Most common cause of stroke?,Hemorrhage,Embolism,Thrombosis,Tumor,C,Thrombotic stroke most common.
+USMLE,Medicine,Neurology,First step acute ischemic stroke?,Aspirin,tPA without imaging,CT scan,Heparin,C,CT required before tPA.
+USMLE,Medicine,Neurology,Parkinson disease due to loss of?,GABA neurons,Dopamine neurons,Serotonin neurons,Motor cortex,B,Dopamine loss in substantia nigra.
+USMLE,Medicine,Neurology,Multiple sclerosis affects?,PNS myelin,CNS myelin,Muscle,Neuromuscular junction,B,MS is CNS demyelination.
+USMLE,Medicine,Neurology,Most common seizure type adults?,Absence,Tonic clonic,Myoclonic,Atonic,B,Tonic clonic common.
+USMLE,Medicine,Infectious Disease,First line TB treatment?,Isoniazid only,Rifampicin only,HRZE combination,Penicillin,C,Standard HRZE regimen.
+USMLE,Medicine,Infectious Disease,Most common cause pneumonia outpatient?,Strep pneumoniae,Klebsiella,TB,MRSA,A,Strep pneumo common.
+USMLE,Medicine,Infectious Disease,HIV initial test?,Western blot,PCR,ELISA,Culture,C,ELISA is screening.
+USMLE,Medicine,Infectious Disease,Malaria diagnosis?,Culture,AFB stain,Peripheral smear,ELISA,C,Peripheral smear detects parasite.
+USMLE,Medicine,Infectious Disease,Complication of untreated syphilis?,MI,Neurosyphilis,Stroke,TB,B,Tertiary syphilis affects CNS.
+USMLE,Medicine,Rheumatology,Rheumatoid arthritis antibody?,ANA,Anti-CCP,Anti-dsDNA,RF only,B,Anti-CCP specific for RA.
+USMLE,Medicine,Rheumatology,Gout due to?,Low uric acid,High uric acid,Low calcium,High glucose,B,Hyperuricemia causes gout.
+USMLE,Medicine,Rheumatology,SLE hallmark?,Anti-GBM,Anti-CCP,Anti-dsDNA,Anti-Jo1,C,Anti-dsDNA specific.
+USMLE,Medicine,Rheumatology,Osteoarthritis affects?,DIP,PIP,MCP,Wrist,A,DIP commonly affected.
+USMLE,Medicine,Rheumatology,Ankylosing spondylitis associated with?,HLA-B27,HLA-DR4,HLA-DQ2,HLA-A2,A,HLA-B27 association.
+USMLE,Surgery,General,Bowel obstruction most common cause?,Adhesions,Hernia,Cancer,Volvulus,A,Adhesions most common.
+USMLE,Surgery,General,Classic sign cholecystitis?,McBurney,Murphy,Cullen,Turner,B,Murphy sign positive.
+USMLE,Surgery,General,Pancreatitis initial management?,Antibiotics,Surgery,NPO and fluids,Steroids,C,NPO and fluids first step.
+USMLE,Surgery,General,Strangulated hernia risk?,Bleeding,Infection,Ischemia,Rash,C,Strangulation leads to ischemia.
+USMLE,Surgery,General,Shock first step?,Pressors,Airway,Antibiotics,Surgery,B,Airway always first.
+USMLE,Surgery,Trauma,GCS measures?,Heart rate,Blood pressure,Consciousness,Respiration,C,GCS measures consciousness.
+USMLE,Surgery,Trauma,Tension pneumothorax treatment?,Oxygen only,Needle decompression,CT scan,Surgery,B,Needle decompression urgent.
+USMLE,Surgery,Orthopedics,Colles fracture involves?,Ulna,Distal radius,Proximal humerus,Tibia,B,Colles distal radius fracture.
+USMLE,Surgery,Orthopedics,Osteomyelitis common organism?,Staph aureus,E coli,TB,Strep,Beta,A,Staph aureus common.
+USMLE,Surgery,Urology,Renal colic pain radiates to?,Back only,Groin,Chest,Neck,B,Stone pain radiates groin.
+USMLE,Surgery,Urology,Hydrocele transilluminates?,Yes,No,Maybe,Rarely,A,Hydrocele transilluminates.
+USMLE,Surgery,Vascular,Peripheral arterial disease sign?,Claudication,Edema,Rash,Fever,A,Claudication hallmark.
+USMLE,Surgery,Vascular,Varicose veins complication?,DVT,Ulcer,Stroke,MI,B,Chronic ulcers develop.
+USMLE,Surgery,Neurosurgery,Epidural hematoma shape?,Crescent,Biconvex,Diffuse,Nodular,B,Epidural is lens shaped.
+USMLE,Surgery,Breast,Paget disease sign?,Nipple eczema,Mass only,Pain,Ulcer,A,Nipple eczema typical.
+USMLE,Surgery,Thyroid,Medullary thyroid cancer marker?,Thyroglobulin,Calcitonin,TSH,T4,B,Calcitonin elevated.
+USMLE,Surgery,General,Perforated ulcer sign?,Free air under diaphragm,Edema,Rash,Clubbing,A,Air under diaphragm classic.
+USMLE,Surgery,General,Volvulus common site?,Sigmoid,Rectum,Ileum,Jejunum,A,Sigmoid most common.
+USMLE,Surgery,General,Most common cause lower GI bleed?,Hemorrhoids,Diverticulosis,Cancer,Colitis,B,Diverticulosis common.
+USMLE,Surgery,General,Breast lump young female?,Cancer,Abscess,Fibroadenoma,Cyst,C,Fibroadenoma common young.
+USMLE,Surgery,General,Appendicitis complication?,Perforation,Stroke,MI,TB,A,Perforation common.
+USMLE,Surgery,General,Thyroid storm treatment?,Levothyroxine,PTU and beta blocker,Radioiodine,Surgery,B,PTU + beta blocker.
+USMLE,Surgery,General,Hemorrhoids due to?,Portal HTN,Venous dilation,Arterial block,Lymph node,B,Venous dilation cause.
+USMLE,Surgery,General,Most common salivary tumor?,Pleomorphic adenoma,Mucoepidermoid,Carcinoma,Oncocytoma,A,Pleomorphic adenoma common.
+USMLE,Surgery,General,Most common liver cancer?,Cholangiocarcinoma,Hepatocellular carcinoma,Metastasis,Angiosarcoma,B,HCC most common primary.
+USMLE,Surgery,General,Acute urinary retention cause elderly?,Cancer only,Stones,BPH,Infection,C,BPH common cause.
